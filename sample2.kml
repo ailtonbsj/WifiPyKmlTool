@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+
+<Style id="icon1"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href></Icon></IconStyle></Style>
+<Style id="icon2"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-square.png</href></Icon></IconStyle></Style>
+<Style id="icon3"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-square.png</href></Icon></IconStyle></Style>
+<Style id="icon4"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-square.png</href></Icon></IconStyle></Style>
+
+
+<Placemark>
+<name>Net3</name>
+<styleUrl>#icon3</styleUrl><Point><coordinates>-38.87443,-6.40348</coordinates>></Point>
+
+<description><![CDATA[<table><tr><td>Name</td><td><font color="#004000">Net3</font></td></tr>
+<tr><td>Address</td><td><font color="#004000">64:66:B3:A1:00:B6</font></td></tr>
+<tr><td>Company</td><td><font color="#004000">TP-LINK TECHNOLOGIES CO., LTD.</font></td></tr>
+<tr><td>Signal Level</td><td><font color="#004000">-67</font></td></tr>
+<tr><td>Frequency</td><td><font color="#004000">2437</font></td></tr>
+<tr><td>Channel</td><td><font color="#004000">6</font></td></tr>
+<tr><td>Security</td><td><font color="#004000">WPA-PSK + WPA2-PSK</font></td></tr>
+<tr><td>Cipher</td><td><font color="#004000">CCMP</font></td></tr>
+<tr><td>BSS Type</td><td><font color="#004000">Infrastructure</font></td></tr>
+<tr><td>WPS Support</td><td><font color="#004000">Yes</font></td></tr>
+<tr><td>Time</td><td><font color="#004000">6/24/2016 06:31:00 pm</font></td></tr>
+<tr><td>Longitude</td><td><font color="#004000">-38.87443</font></td></tr>
+<tr><td>Latitude</td><td><font color="#004000">-6.40348</font></td></tr>
+</table>]]></description>
+</Placemark>
+
+<Placemark>
+<name>Net2</name>
+<styleUrl>#icon3</styleUrl><Point><coordinates>-38.87471,-6.40346</coordinates>></Point>
+
+<description><![CDATA[<table><tr><td>Name</td><td><font color="#004000">Net2</font></td></tr>
+<tr><td>Address</td><td><font color="#004000">C8:3A:35:28:3B:C8</font></td></tr>
+<tr><td>Company</td><td><font color="#004000">Tenda Technology Co., Ltd.</font></td></tr>
+<tr><td>Signal Level</td><td><font color="#004000">-71</font></td></tr>
+<tr><td>Frequency</td><td><font color="#004000">2437</font></td></tr>
+<tr><td>Channel</td><td><font color="#004000">6</font></td></tr>
+<tr><td>Security</td><td><font color="#004000">WPA-PSK + WPA2-PSK</font></td></tr>
+<tr><td>Cipher</td><td><font color="#004000">TKIP + CCMP</font></td></tr>
+<tr><td>BSS Type</td><td><font color="#004000">Infrastructure</font></td></tr>
+<tr><td>WPS Support</td><td><font color="#004000">No</font></td></tr>
+<tr><td>Time</td><td><font color="#004000">6/24/2016 06:31:41 pm</font></td></tr>
+<tr><td>Longitude</td><td><font color="#004000">-38.87471</font></td></tr>
+<tr><td>Latitude</td><td><font color="#004000">-6.40346</font></td></tr>
+</table>]]></description>
+</Placemark>
+
+
+
+</Folder></kml>
